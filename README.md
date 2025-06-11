@@ -33,8 +33,3 @@ A console-based inventory management system written in C++ that allows users to 
 
 Just copy all the files (`main.cpp`, `data.txt`, `temp.txt`) into one folder and open that folder in your C++ compiler (like VS Code, Code::Blocks, or Dev-C++).
 
-Then, compile and run the code:
-
-```bash
-g++ main.cpp -o inventory
-./inventory
